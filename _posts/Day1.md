@@ -8,7 +8,7 @@ You might be wondering, what is this page? Well, let me explain it to you. Hi, m
 
 ## Word of warning
 
-*These posts will be raw, unedited, and imperfect. I’m deliberately avoiding polished, LinkedIn-style writing. Expect spelling mistakes, half-formed thoughts, and honesty.*
+*I am sure you have noticed that since ChatGPT came out, everyone sounds the same and writes the same, well I hate that, so these blogs will be raw, unedited, thoughts riddled with punctuation errors, spelling errors but most importantly, authenticity :).*
 
 
 
