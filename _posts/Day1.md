@@ -1,6 +1,6 @@
 ---
-layout: post
-title: "Day 1 of Still Not Being a Quant Dev"
+layout | title
+post   | Day 1 of Still Not Being a Quant Dev
 ---
 
 **About Me:** 
