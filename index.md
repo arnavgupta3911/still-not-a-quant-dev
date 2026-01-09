@@ -1,8 +1,7 @@
-# Still Not a Quant Dev
+---
+layout: home
+---
 
-**Daily logs of learning quantitative development — publicly and imperfectly.**
+Daily logs of learning quantitative development, enjoy!
 
-I’m documenting my attempt to learn quantitative development, but the goal is broader: becoming a stronger software engineer by tackling hard problems in public.
-
-## Start here
-- [Day 1 – (title)](_posts/Day1.md)
+Hi Guys! Watch me document my journey towards becoming a quant developer, enjoy the highs, the lows (I imagine there are many more of these than highs), and everything in between.
