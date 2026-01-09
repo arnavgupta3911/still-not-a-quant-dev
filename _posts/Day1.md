@@ -1,5 +1,5 @@
 ---
-post   | Day 1 of Still Not Being a Quant Dev
+Day 1 of Still Not Being a Quant Dev
 ---
 
 **About Me:** 
