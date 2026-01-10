@@ -1,6 +1,9 @@
 title: Still Not a Quant Dev
-description: Daily logs of my road to being a quant dev, have fun reading about my misery :)
+description: Daily logs of learning quantitative development — publicly and imperfectly.
 theme: minima
+
+baseurl: "/still-not-a-quant-dev"
+url: "https://arnavgupta3911.github.io"
 
 header_pages:
   - about.md
